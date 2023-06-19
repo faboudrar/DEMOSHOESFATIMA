@@ -33,3 +33,12 @@ header #part_1 {
 #social_links i {
     font-size: 2rem;
 }
+header h2 {
+    padding-bottom: 1rem;
+    border-bottom: 1px solid black;
+}
+#part_3 ul {
+    display: flex;
+    list-style: none;
+    gap: 1rem;
+}
